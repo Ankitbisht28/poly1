@@ -2,6 +2,9 @@ AIM(Polygon-Advanced-Module-1):-
 This is the final project in Polygon-Advanced and in this project, we are tasked to deploy an NFT collection on the Ethereum blockchain, Map the collection to Polygon, and Transfer assets over via the Polygon Bridge.
 
 Getting Started:-
+I have made a AnimalArt" contract allows users to mint animal-themed NFTs by calling the mint function and sending the required Ether. The contract owner has additional functionalities to manage the contract, update the prompt and description, set metadata attributes, and withdraw the contract's balance.
+
+Steps.
 1.Navigate to your project directory and open the terminal.
 2.use command (npm install) After installing the dependencies.
 3.run the test file by using the following command: npx hardhat test.
