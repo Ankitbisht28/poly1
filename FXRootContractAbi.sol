@@ -17,4 +17,7 @@ contract FXRoot {
 
     function setFxChild(address _fxChild) public {
     }
+function deposit(address _contractAddress, address _to, uint256 _tokenId, bytes calldata _data) external {
+    // ... implementation to handle the deposit ...
+}
 }
